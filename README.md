@@ -1,14 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=27&duration=1500&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&repeat=false&width=435&lines=DESENVOLVEDOR+FRONT-END)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/vini-soa/)
+[![](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/albert-stanley-26a4681a3/)
 
-## Um pouco sobre mim...  
-  Sou um entusiasta da tecnologia, sempre em busca de oportunidades para aprender e aplicar meus conhecimentos em projetos. Meu objetivo é evoluir como desenvolvedor e contribuir para iniciativas inovadoras que gerem impacto.
+## Um pouco sobre mim...
+Sou Albert Stanley, desenvolvedor Front-End com uma paixão profunda por conhecimento e uma vontade intensa de aprender. Acredito no poder da resiliência e na busca constante pela excelência, sempre focado em aplicar as melhores práticas do mercado. Estou em busca de uma vaga de trabalho como desenvolvedor Front-End para continuar evoluindo, superar desafios diários e agregar valor real com soluções práticas e eficientes.
 
-- 📘 Atualmente estudo na FATEC Rubens Lara;
-- ⛏️ Estou procurando um emprego como dev Front End;
-- 🧑‍🦲 Foco em Desenvolvimento Front-End;
-- 🏐 Apaixonado por esportes.
+- 📘 Estudo na FATEC Rubens Lara, no curso de ADS;
+- ⛏️ Buscando meu primeiro emprego como desenvolvedor Front-End;
+- 🧑‍🦲 Foco em Desenvolvimento Front-End com React, TypeScript e React Native;
+- 🏋️‍♂️ Apaixonado por esportes e aprendizado contínuo.
 
 ### Minhas Habilidades
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) [<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) [![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html) [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com) [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic2syl_NLzAhXCnLMKHaspADoYABAAGgJxbg&ae=2&ohost=www.google.com&cid=CAESQOD2u8Z7ZhKNFpONz_9iR_mHA-reb1xJ7B61DJQ1bmnINBgADdXqt8cLfEyg4CBn0pKXcVMFR816Iq-lIhcFcDw&sig=AOD64_1-t_VuYeOPhR90gq-FuQ4NOtUB3w&q&adurl&ved=2ahUKEwiVwcOl_NLzAhUDZd8KHXujB7gQ0Qx6BAgCEAE&dct=1) [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/) [![](https://img.shields.io/badge/REACT-lightblue?style=for-the-badge&logo=react&logoColor=black)](https://react.dev) [![](https://img.shields.io/badge/NODE-lightgreen?style=for-the-badge&logo=nodedotjs&logoColor=black)](https://nodejs.org/pt) [![](https://img.shields.io/badge/JS-lightyellow?style=for-the-badge&logo=javascript&logoColor=black&link=https%3A%2F%2Freact.dev)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/JavaScript-lightyellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+[![](https://img.shields.io/badge/REACT-lightblue?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)  
+[![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![](https://img.shields.io/badge/Node.js-lightgreen?style=for-the-badge&logo=nodedotjs&logoColor=black)](https://nodejs.org/pt)  
+[![](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)  
+[![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)  
+[![](https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)  
+[![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
+[![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)  
+[![](https://img.shields.io/badge/Zod-2E8B57?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev)  
+[![](https://img.shields.io/badge/TanStack_Query-2C2E3F?style=for-the-badge&logo=tanstack&logoColor=white)](https://tanstack.com/query)  
+[![](https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://nativewind.dev)
+
+### Minhas experiências
+Estou desenvolvendo atualmente dois projetos de destaque:
+1. **Cadastro Inteligente** – Um sistema de cadastro de pessoas utilizando React, TypeScript, Zod para validações, e integração com API.
+2. **DedeApplication** – Uma plataforma freelancer desenvolvida com React Native, Expo, TanStack Query, GlueStack e autenticação com JWT. A aplicação está sendo feita para ser colocada em produção, permitindo o estudo de todas as camadas do ciclo de desenvolvimento, incluindo o front-end, back-end e integração de dados.

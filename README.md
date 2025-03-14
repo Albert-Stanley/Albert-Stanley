@@ -11,18 +11,8 @@ Sou Albert Stanley, desenvolvedor Front-End com uma paixão profunda por conheci
 - 🏋️‍♂️ Apaixonado por esportes e aprendizado contínuo.
 
 ### Minhas Habilidades
-[![](https://img.shields.io/badge/JavaScript-lightyellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
-[![](https://img.shields.io/badge/REACT-lightblue?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)  
-[![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![](https://img.shields.io/badge/Node.js-lightgreen?style=for-the-badge&logo=nodedotjs&logoColor=black)](https://nodejs.org/pt)  
-[![](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)  
-[![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)  
-[![](https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)  
-[![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
-[![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)  
-[![](https://img.shields.io/badge/Zod-2E8B57?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev)  
-[![](https://img.shields.io/badge/TanStack_Query-2C2E3F?style=for-the-badge&logo=tanstack&logoColor=white)](https://tanstack.com/query)  
-[![](https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://nativewind.dev)
+[![](https://img.shields.io/badge/JavaScript-lightyellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)   [![](https://img.shields.io/badge/REACT-lightblue?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)   [![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)   [![](https://img.shields.io/badge/Node.js-lightgreen?style=for-the-badge&logo=nodedotjs&logoColor=black)](https://nodejs.org/pt)   [![](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)   [![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)   [![](https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)   [![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)   [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)   [![](https://img.shields.io/badge/Zod-2E8B57?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev)   [![](https://img.shields.io/badge/TanStack_Query-2C2E3F?style=for-the-badge&logo=tanstack&logoColor=white)](https://tanstack.com/query)   [![](https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://nativewind.dev)
+
 
 ### Minhas experiências
 Estou desenvolvendo atualmente dois projetos de destaque:

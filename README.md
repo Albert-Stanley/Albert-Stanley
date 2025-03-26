@@ -15,6 +15,5 @@ Sou Albert Stanley, desenvolvedor Front-End com uma paixão profunda por conheci
 
 
 ### Minhas experiências
-Estou desenvolvendo atualmente dois projetos de destaque:
-1. **Cadastro Inteligente** – Um sistema de cadastro de pessoas utilizando React, TypeScript, Zod para validações, e integração com API.
-2. **DedeApplication** – Uma plataforma freelancer desenvolvida com React Native, Expo, TanStack Query, GlueStack e autenticação com JWT. A aplicação está sendo feita para ser colocada em produção, permitindo o estudo de todas as camadas do ciclo de desenvolvimento, incluindo o front-end, back-end e integração de dados.
+Estou desenvolvendo atualmente o seguinte projeto:
+**DedeApplication** – Uma plataforma freelancer desenvolvida com React Native, Expo, TanStack Query, GlueStack e autenticação com JWT. A aplicação está sendo feita para ser colocada em produção, permitindo o estudo de todas as camadas do ciclo de desenvolvimento, incluindo o front-end, back-end e integração de dados.

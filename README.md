@@ -1,4 +1,5 @@
 ## Albert Stanley
+📬 Buscando estágio como Desenvolvedor Front-End — pronto para aprender, evoluir e somar com propósito.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=61DAFB&background=00000000&center=false&vCenter=true&width=440&lines=Desenvolvedor+Front-End)
 
@@ -14,6 +15,7 @@
 🧑‍💼 Em busca da primeira oportunidade como desenvolvedor para evoluir e contribuir com equipes de tecnologia  
 💡 Acredito na resiliência, na melhoria contínua e na entrega de soluções eficientes e práticas  
 🏋️‍♂️ Pratico musculação e ciclismo para manter o corpo ativo e a mente focada
+
 
 ---
 
@@ -40,6 +42,8 @@
 
 ### 🚧 DedeApplication  
 📱 Plataforma freelancer desenvolvida com **React Native**, **Expo**, **TanStack Query**, **GlueStack** e **JWT Auth**  
-🎯 Foco em produção real, cobrindo todo o ciclo de desenvolvimento: front-end, back-end e integração de dados
+🎯 Foco em produção real, cobrindo todo o ciclo de desenvolvimento front-end e integração de dados  
+🎓 Esse projeto está sendo criado com o objetivo de aprender todas as camadas do desenvolvimento front-end na prática.  
+🔗 [Acompanhar no GitHub](https://github.com/Albert-Stanley/DedeApplication) *(em desenvolvimento)*
 
 ---

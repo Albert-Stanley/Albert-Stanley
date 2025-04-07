@@ -1,20 +1,12 @@
-<h1 align="center">💻 Albert Stanley</h1>
+## Albert Stanley
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=61DAFB&background=00000000&center=false&vCenter=true&width=440&lines=Desenvolvedor+Front-End)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-stanley-26a4681a3/)
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/albert-stanley-26a4681a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=61DAFB&background=00000000&center=true&vCenter=true&width=440&lines=Desenvolvedor+Front-End" alt="typing-animation">
-</p>
-
----
-
-## 🧠 Sobre mim
+## Sobre mim 🧠
 
 👨‍💻 Desenvolvedor Front-End com foco em React, TypeScript e React Native  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara  
@@ -25,9 +17,9 @@
 
 ---
 
-## ⚙️ Conhecimentos Técnicos
+## 👨‍💻 Conhecimentos / Experiências 
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -51,4 +43,3 @@
 🎯 Foco em produção real, cobrindo todo o ciclo de desenvolvimento: front-end, back-end e integração de dados
 
 ---
-

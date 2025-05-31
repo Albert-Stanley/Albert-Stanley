@@ -1,5 +1,5 @@
 ## Albert Stanley
-📬 Buscando estágio como Desenvolvedor Front-End — pronto para aprender, evoluir e somar com propósito.
+📬 Buscando estágio como Desenvolvedor Front-End — pronto para aprender, evoluir e somar.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=61DAFB&background=00000000&center=false&vCenter=true&width=440&lines=Desenvolvedor+Front-End)
 

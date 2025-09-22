@@ -1,5 +1,4 @@
 ## Albert Stanley
-📬 Buscando estágio como Desenvolvedor Front-End — pronto para aprender, evoluir e somar.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=61DAFB&background=00000000&center=false&vCenter=true&width=440&lines=Desenvolvedor+Front-End)
 
@@ -12,7 +11,6 @@
 👨‍💻 Desenvolvedor Front-End com foco em React, TypeScript e React Native  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara  
 🚀 Apaixonado por tecnologia, aprendizado constante e boas práticas de desenvolvimento  
-🧑‍💼 Em busca da primeira oportunidade como desenvolvedor para evoluir e contribuir com equipes de tecnologia  
 💡 Acredito na resiliência, na melhoria contínua e na entrega de soluções eficientes e práticas  
 🏋️‍♂️ Pratico musculação e ciclismo para manter o corpo ativo e a mente focada
 

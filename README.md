@@ -1,6 +1,6 @@
 ## Albert Stanley
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=61DAFB&background=00000000&center=false&vCenter=true&width=480&lines=Analista+de+Sistemas+Junior;Desenvolvedor+Back-End+%26+Front-End;Java+%7C+Groovy+%7C+SQL+%7C+React)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=61DAFB&background=00000000&center=false&vCenter=true&width=480&lines=Analista+de+Sistemas+Junior;Desenvolvedor+Back-End;Java+%7C+Groovy+%7C+SQL+%7C+React)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-stanley/)
 

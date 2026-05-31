@@ -6,12 +6,11 @@
 
 ---
 
-## Sobre mim 🧠
+## Sobre mim 
 
 👨‍💻 Analista de Sistemas Júnior na **T2S Tecnologia**, atuando no sistema crítico TOS N4 (Navis) para o Porto de Itapoá  
 ⚙️ Experiência em desenvolvimento e automação de fluxos logísticos de alta complexidade com **Java, Groovy e SQL/HQL**  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara  
-🚀 Apaixonado por tecnologia, aprendizado constante e boas práticas de desenvolvimento  
 💡 Acredito na resiliência, na melhoria contínua e na entrega de soluções eficientes e práticas  
 🏋️‍♂️ Pratico musculação e ciclismo para manter o corpo ativo e a mente focada
 
@@ -23,22 +22,22 @@
 ### T2S Tecnologia · Santos, SP
 **Analista de Sistemas Júnior** · *fev 2026 – atual*  
 Evolução e sustentação do sistema crítico **TOS N4 (Navis)** para o Porto de Itapoá, com foco em desenvolvimento logístico de alta complexidade.
-- 🤖 **Automação:** scripts em **Groovy** e **Code Extensions** para automatizar fluxos críticos da operação portuária
-- 🛠️ **Sustentação:** resolução ágil de bugs em produção e análise de dados operacionais
-- 🤝 **Qualidade:** contato direto com o cliente e apoio técnico à equipe, mantendo **nota máxima (10)** nos indicadores de qualidade de entrega
+- **Automação:** scripts em **Groovy** e **Code Extensions** para automatizar fluxos críticos da operação portuária
+- **Sustentação:** resolução ágil de bugs em produção e análise de dados operacionais
+- **Qualidade:** contato direto com o cliente e apoio técnico à equipe, mantendo **nota máxima (10)** nos indicadores de qualidade de entrega
 
 **Analista de Sistemas Trainee** · *out 2025 – fev 2026*  
 Atuação estratégica no backlog, em novos projetos e na sustentação da operação do Porto de Itapoá.
-- 📉 Contribuição direta para a **redução de 22% do backlog** (de 734 para 575 itens)
-- 📈 Papel fundamental no **aumento de 10x no throughput** da equipe (de 2 para dezenas de entregas mensais)
-- ✅ Automação de processos logísticos via Groovy e validações sistêmicas para conformidade com a **Receita Federal**
+- Contribuição direta para a **redução de mais de 48% do backlog de sustentação** (de 734 para 375 itens)
+- Papel fundamental no **aumento de 1005% no throughput** da equipe (de 2 para dezenas de entregas mensais)
+- Automação de processos logísticos via Groovy e validações sistêmicas para conformidade com a **Receita Federal**
 
 **Estágiário em Análise de Sistemas** · *ago 2025 – out 2025*  
 Desenvolvimento e sustentação no TOS N4 (Navis), com passagens pelo Terminal Vila Velha (TVV) e Porto de Itapoá.
-- 🔍 Análise e resolução de incidentes em ambiente produtivo
-- 🧩 Manutenção de customizações em Groovy/Java e regras de negócio do TOS
-- 📊 Queries **SQL/HQL** para extração de dados operacionais e suporte à decisão
-- 🔌 Monitoramento de integrações entre o TOS e sistemas externos (gate e pátio)
+- Análise e resolução de incidentes em ambiente produtivo
+- Manutenção de customizações em Groovy/Java e regras de negócio do TOS
+- Queries **SQL/HQL** para extração de dados operacionais e suporte à decisão
+- Monitoramento de integrações entre o TOS e sistemas externos (gate e pátio)
 
 ---
 
@@ -77,15 +76,5 @@ Desenvolvimento e sustentação no TOS N4 (Navis), com passagens pelo Terminal V
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
----
-
-## 🛠️ Projeto em desenvolvimento
-
-### 🚧 DedeApplication  
-📱 Plataforma freelancer desenvolvida com **React Native**, **Expo**, **TanStack Query**, **GlueStack** e **JWT Auth**  
-🎯 Foco em produção real, cobrindo todo o ciclo de desenvolvimento front-end e integração de dados  
-🎓 Criado com o objetivo de aprender todas as camadas do desenvolvimento front-end na prática  
-🔗 [Acompanhar no GitHub](https://github.com/Albert-Stanley/DedeApplication) *(em desenvolvimento)*
 
 ---
